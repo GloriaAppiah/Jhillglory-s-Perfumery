@@ -118,10 +118,10 @@ Through this project, I improved my understanding of:
 ## Project Links
 
 **GitHub Repository:**
-Add your GitHub repository link here.
+https://github.com/GloriaAppiah/Jhillglory-s-Perfumery
 
 **Live Website:**
-Add your Netlify link here if you publish the website.
+
 
 ## Conclusion
 
