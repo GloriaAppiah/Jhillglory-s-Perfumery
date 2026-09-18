@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Project Title: Jhillglory's Perfumery
+**Project Title:** Jhillglory's Perfumery
 **Industry:** Perfume / Beauty
 **Business:** Jhillglory's Perfumery
 **Project Type:** Local Business Landing Page
@@ -121,6 +121,7 @@ Through this project, I improved my understanding of:
 https://github.com/GloriaAppiah/Jhillglory-s-Perfumery
 
 **Live Website:**
+https://fascinating-kashata-9304d1.netlify.app
 
 
 ## Conclusion
